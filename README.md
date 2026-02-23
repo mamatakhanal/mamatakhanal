@@ -1,16 +1,11 @@
 ## Hi 👋, I'm Mamata Khanal
+
 🔭 Gained practical experience in manual and basic automation testing through my QA internship.
 🌱 Interested in QA testing and web application projects.
 👯 Developed projects using PHP and have basic knowledge of Java and SQL.
-⚡ Familiar with Trello and Confluence for project tracking and team collaboration.
+⚡ Familiar with Trello and Confluence for project tracking and team collaboration
 📫 Connect with me on [LinkedIn:https://linkedin.com/in/mamata-khanal-a221aa231]
 
-🔭 Gained practical experience in manual and basic automation testing through my QA internship  
-🌱 Interested in QA testing and web application projects  
-👯 Developed projects using PHP and have basic knowledge of Java and SQL  
-🤔 Looking to improve my skills in Playwright automation and JavaScript  
- 
-⚡ Familiar with Trello and Confluence for project tracking and team collaboration
 <!--
 **mamatakhanal/mamatakhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
