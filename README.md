@@ -1,9 +1,13 @@
 ## Hi 👋, I'm Mamata Khanal
 
 🔭 Gained practical experience in manual and basic automation testing through my QA internship.
+
 🌱 Interested in QA testing and web application projects.
+
 👯 Developed projects using PHP and have basic knowledge of Java and SQL.
-⚡ Familiar with Trello and Confluence for project tracking and team collaboration
+
+⚡ Familiar with Trello and Confluence for project tracking and team collaboration.
+
 📫 Connect with me on [LinkedIn:https://linkedin.com/in/mamata-khanal-a221aa231]
 
 <!--
