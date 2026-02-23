@@ -4,11 +4,11 @@
 
 🌱 Interested in QA testing and web application projects.
 
-👯 Developed projects using PHP and have basic knowledge of Java and SQL.
+⚡ Developed projects using PHP and have basic knowledge of Java and SQL.
 
-⚡ Familiar with Trello and Confluence for project tracking and team collaboration.
-
-📫 Connect with me on [LinkedIn:https://linkedin.com/in/mamata-khanal-a221aa231]
+📫 Connect with me on 
+LinkedIn: https://linkedin.com/in/mamata-khanal-a221aa231
+Email: mamatakhanal08@gmail.com
 
 <!--
 **mamatakhanal/mamatakhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
