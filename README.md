@@ -6,9 +6,7 @@
 
 ⚡ Developed projects using PHP and have basic knowledge of Java and SQL.
 
-📫 Connect with me on 
-LinkedIn: https://linkedin.com/in/mamata-khanal-a221aa231
-Email: mamatakhanal08@gmail.com
+📫 Connect with me on LinkedIn: https://linkedin.com/in/mamata-khanal-a221aa231
 
 <!--
 **mamatakhanal/mamatakhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
