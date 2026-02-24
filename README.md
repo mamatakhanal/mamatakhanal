@@ -1,13 +1,12 @@
 ## 💫 About Me:
 ✨ Gained practical experience in manual and basic automation testing through my QA internship.
-<br>🌱 Interested in QA testing and web application projects.
-<br>⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
+🌱 Interested in QA testing and web application projects.
+⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
 
 ## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)<br>
+<br>
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%238511FA.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
