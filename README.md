@@ -3,7 +3,7 @@
 🔭  ✨ Gained practical experience in manual and basic automation testing through my QA internship.
 <br><br>🌱 Interested in QA testing and web application projects.
 <br><br>⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
-<br>  📫 How to reach me **saammagar00@gmail.com**<br>
+<br>  
 
 
 # 📫 Connect with me:
@@ -19,11 +19,13 @@
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a> &nbsp;&nbsp; 
 ![JavaScript](https://img.shields.io/badge/javascript-%238511FA.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <a href="https://www.java.com/" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </a>
 
