@@ -1,4 +1,22 @@
 ## 💫 About Me:
+
+<table>
+  <tr>
+    <td>
+Hi, I'm **Mamata Khanal** 👋<br>
+Gained practical experience in manual and basic automation testing through my QA internship.<br>
+Interested in QA testing and web application projects.<br>
+Developed projects using PHP and have basic knowledge of Java and SQL.<br>
+Familiar with Trello and Confluence for project tracking and team collaboration.
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+    </td>
+  </tr>
+</table>
+
+
+## 💫 About Me:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
