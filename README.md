@@ -13,7 +13,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%232EAD33.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-#FFC0CB.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%23FF69B4.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Playwright](https://img.shields.io/badge/-Playwright-%23FF69B4?style=for-the-badge&logo=playwright&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
