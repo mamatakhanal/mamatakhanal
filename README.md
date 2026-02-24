@@ -30,26 +30,32 @@
 </a>
 
 <a href="https://www.php.net/" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/features/actions" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
 </a>
 
 <a href="https://playwright.dev/" target="_blank">
+   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
 </a>
 
