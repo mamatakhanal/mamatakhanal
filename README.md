@@ -1,8 +1,18 @@
 ## 💫 About Me: 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div> 
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      ## 💫 About Me:
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+    </td>
+  </tr>
+</table>
 
 <table width="100%">
   <tr>
