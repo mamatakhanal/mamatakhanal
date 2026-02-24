@@ -19,8 +19,10 @@
 
 ## 🌟 Profile View:
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color="%231A237E" alt="Profile Views"/>
-  <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=%23000080" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=%230000FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=%231E90FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=%230000CD" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=%230000FF" alt="Profile Views"/>
 </div> 
 
 
