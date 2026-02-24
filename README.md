@@ -5,21 +5,10 @@
 
 <table width="100%">
   <tr>
-    <td align="left">
+    <td align="left" style="padding-right: 50px;">
       ## 💫 About Me:
     </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <h2>💫 About Me:</h2>
-    </td>
-    <td align="right" valign="middle">
+    <td align="right" style="padding-left: 50px;">
       <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
     </td>
   </tr>
