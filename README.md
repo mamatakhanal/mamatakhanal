@@ -1,65 +1,15 @@
 ## Hi 👋, I'm Mamata Khanal
-# 💫 About Me:
-🔭  ✨ Gained practical experience in manual and basic automation testing through my QA internship.
+## 💫 About Me:
+✨ Gained practical experience in manual and basic automation testing through my QA internship.
 <br><br>🌱 Interested in QA testing and web application projects.
-<br><br>⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
+<br>⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
 <br>  
 
 
 # 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]: (https://linkedin.com/in/mamata-khanal-a221aa231)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com): (mamatakhanal08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)
 
-<p align="left">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </span>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a> &nbsp;&nbsp; 
-![JavaScript](https://img.shields.io/badge/javascript-%238511FA.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<a href="https://www.java.com/" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/features/actions" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
-</a>
-
-<a href="https://playwright.dev/" target="_blank">
-   <span style="background-color: white; padding: 8px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
-</a>
-
-</p>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%238511FA.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
