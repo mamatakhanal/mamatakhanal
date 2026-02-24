@@ -8,14 +8,15 @@
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)<br>
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%238511FA.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23FFC107.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%232EAD33.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%23FF69B4.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Playwright](https://img.shields.io/badge/-Playwright-%23FFB6C1?style=for-the-badge&logo=playwright&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-%23FFC0CB?style=for-the-badge&logo=playwright&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-%23FF69B4?style=for-the-badge&logo=playwright&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-%23FFC107?style=for-the-badge&logo=playwright&logoColor=black)
 ![Playwright](https://img.shields.io/badge/-playwright-%23FF7F50?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
