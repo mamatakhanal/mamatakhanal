@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div> 
 
-<table width="100%">
+
   <tr>
     <td align="left" style="padding-right: 50px;">
       ## 💫 About Me:
@@ -12,7 +12,7 @@
       <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
     </td>
   </tr>
-</table>
+
 
 
 ✨ Gained practical experience in manual and basic automation testing through my QA internship.
