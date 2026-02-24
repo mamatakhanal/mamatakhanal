@@ -1,20 +1,8 @@
-## 💫 About Me: 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div> 
 
-
-  <tr>
-    <td align="left" style="padding-right: 50px;">
-      ## 💫 About Me:
-    </td>
-    <td align="right" style="padding-left: 50px;">
-      <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-    </td>
-  </tr>
-
-
-
+## 💫 About Me: 
 ✨ Gained practical experience in manual and basic automation testing through my QA internship.
 <br> 🌱 Interested in QA testing and web application projects.
 <br> ⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
