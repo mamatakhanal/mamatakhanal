@@ -2,7 +2,6 @@
 ✨ Gained practical experience in manual and basic automation testing through my QA internship.
 <br> 🌱 Interested in QA testing and web application projects.
 <br> ⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
-
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)<br>
@@ -13,12 +12,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%232EAD33.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%181717.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%24292F.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%230077B5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/-playwright-%23FF7F50?style=for-the-badge&logo=playwright&logoColor=white)
 
----
 <!--
 **mamatakhanal/mamatakhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
