@@ -15,9 +15,12 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%230077B5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/-playwright-%23FF7F50?style=for-the-badge&logo=playwright&logoColor=white)
 ## 🌟 Profile View:
-<div align="left">
+
  <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge" alt="Profile Views"/>
-</div> 
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge&color=%23000B8B&label_color=%2300BFFF" alt="Profile Views"/>
+</div>
 
 
 <!--
