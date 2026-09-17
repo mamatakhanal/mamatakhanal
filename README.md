@@ -4,15 +4,14 @@
 <br> ⚡ Experience building web applications using PHP, Laravel, JavaScript, HTML, CSS and Bootstrap.
 <br> 🌱 Currently improving my QA, automation and web development skills.
 
-## 🧪✨ QA Skills:
+## 🧪 QA Skills:
 - Manual Testing
-- Functional Testing
-- Regression Testing
-- UI Testing
-- Test Case Design
-- Bug Reporting
-- Basic Automation Testing
-- Playwright
+- Test Case Design & Execution
+- Bug Reporting & Tracking
+- Functional Testing & Regression Testing
+- UI Testing & Web Application Testing
+- Test Automation with Playwright
+- Basic CI/CD with GitHub Actions
   
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%238511FA.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
