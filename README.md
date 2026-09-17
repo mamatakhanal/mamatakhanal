@@ -4,7 +4,7 @@
 <br> ⚡ Experience building web applications using PHP, Laravel, JavaScript, HTML, CSS and Bootstrap.
 <br> 🌱 Currently improving my QA, automation and web development skills.
 
-## 🧪 QA Skills:
+## 🧪✨ QA Skills:
 - Manual Testing
 - Functional Testing
 - Regression Testing
