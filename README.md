@@ -3,9 +3,17 @@
 <br> ✨ Practical experience in manual testing and basic test automation using Playwright. 
 <br> ⚡ Experience building web applications using PHP, Laravel, JavaScript, HTML, CSS and Bootstrap.
 <br> 🌱 Currently improving my QA, automation and web development skills.
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231) 
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)<br>
+
+## 🧪 QA Skills:
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- UI Testing
+- Test Case Design
+- Bug Reporting
+- Basic Automation Testing
+- Playwright
+  
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,18 +27,15 @@
 ![GitHub](https://img.shields.io/badge/github-%232EAD33.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%230077B5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/-playwright-%23FF7F50?style=for-the-badge&logo=playwright&logoColor=white)
+
+## 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231) 
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)<br>
+
 ## 🌟 Profile View:
 <img src="https://komarev.com/ghpvc/?username=mamatakhanal&style=for-the-badge" alt="Profile Views"/>
 
-## 🧪 QA Skills:
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- UI Testing
-- Test Case Design
-- Bug Reporting
-- Basic Automation Testing
-- Playwright
+
 
 <!--
 **mamatakhanal/mamatakhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
