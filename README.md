@@ -23,7 +23,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%232EAD33.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%230077B5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Playwright](https://img.shields.io/badge/-playwright-%23FF7F50?style=for-the-badge&logo=playwright&logoColor=white)
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231) 
