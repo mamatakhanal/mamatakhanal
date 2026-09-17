@@ -1,7 +1,8 @@
 ## 💫 About Me: 
 ✨ Gained practical experience in manual and basic automation testing through my QA internship.
-<br> 🌱 Interested in QA testing and web application projects.
-<br> ⚡ Developed projects using PHP and JavaScript and have basic knowledge of Java and SQL.
+<br> 🌱 Interested in QA testing, web application development and software quality.
+<br> ⚡ Developed web projects using PHP, Laravel, JavaScript, HTML and CSS.
+<br> 🔧 Familiar with Playwright for test automation and Git/GitHub for version control.
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamata-khanal-a221aa231) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamatakanal08@gamail.com)<br>
